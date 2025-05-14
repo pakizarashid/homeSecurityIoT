@@ -41,9 +41,9 @@ An **IoT-enabled home security system** built using Arduino Uno and Python. This
 
 **💻 Software Stack**
 
-* **Arduino C/C++ **(for sensor control and serial communication)
+* **Arduino C/C++** (for sensor control and serial communication)
 * **Python 3** (for image capture, logic processing, and alerting)
-* **Email & SMS APIs **(e.g., SMTP, Twilio)
+* **Email & SMS APIs** (e.g., SMTP, Twilio)
 
 
 
