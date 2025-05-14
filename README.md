@@ -21,7 +21,7 @@ An **IoT-enabled home security system** built using Arduino Uno and Python. This
 
       ↑                  ↑                           ↑
       
-   Sensors          Camera, Logic          Email & SMS Notifications
+   Sensors      |      Camera, Logic      |      Email & SMS Notifications
    
 
 
@@ -47,23 +47,9 @@ An **IoT-enabled home security system** built using Arduino Uno and Python. This
 
 
 
-
-**📦 Folder Structure**
-
-/home-security-iot/
-│
-├── arduino/               # Arduino sketch (.ino)
-├── python/                # Python scripts for alerts and image capture
-├── images/                # Captured motion images
-├── docs/                  # Diagrams and documentation
-└── README.md              # Project overview
-
-
-
-
 **📝 Getting Started**
 
-. Upload the Arduino code to the Uno using Arduino IDE.
-. Run the Python script on your laptop (VS Studio).
-. Ensure API credentials (email/SMS) are configured.
-. System starts monitoring, capturing images and sending alerts.
+1. Upload the Arduino code to the Uno using Arduino IDE.
+2. Run the Python script on your laptop (VS Studio).
+3. Ensure API credentials (email/SMS) are configured.
+4. System starts monitoring, capturing images and sending alerts.
